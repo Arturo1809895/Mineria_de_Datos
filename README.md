@@ -9,6 +9,8 @@
 
 [Ejercicios 1] 
 
+[Códigos Ejercicio 1](https://github.com/Arturo1809895/Mineria_de_Datos/blob/master/Ejercicios1_Regresi%C3%B3n_002.ipynb)
+
 [Ejercicios 2] 
 
 [Mapa Mental 2] 
