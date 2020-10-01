@@ -13,8 +13,6 @@
 
 [Resumenes Técnicas](https://github.com/Arturo1809895/Mineria_de_Datos/blob/master/Resumen_Regresi%C3%B3n_1809895.pdf) 
 
+[Mapa Mental 2](https://github.com/Arturo1809895/Mineria_de_Datos/blob/master/MapaMental_2_1809895.pdf) 
+
 [Ejercicios 2] 
-
-[Mapa Mental 2] 
-
-
