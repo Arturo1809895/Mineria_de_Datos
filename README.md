@@ -11,8 +11,10 @@
 
 [Códigos Ejercicio 1](https://github.com/Arturo1809895/Mineria_de_Datos/blob/master/Ejercicios1_Regresi%C3%B3n_002.ipynb)
 
+[Resumenes Técnicas](https://github.com/Arturo1809895/Mineria_de_Datos/blob/master/Resumen_Regresi%C3%B3n_1809895.pdf) 
+
 [Ejercicios 2] 
 
 [Mapa Mental 2] 
 
-[Resumenes] 
+
