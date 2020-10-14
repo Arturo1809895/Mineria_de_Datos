@@ -15,4 +15,4 @@
 
 [Mapa Mental 2](https://github.com/Arturo1809895/Mineria_de_Datos/blob/master/MapaMental_2_1809895.pdf) 
 
-[Ejercicios 2] 
+[Análisis Base de Datos] 
