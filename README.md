@@ -19,4 +19,4 @@
 
 [Análisis Base de Datos](https://github.com/Arturo1809895/Mineria_de_Datos/blob/master/AnalisisBD_1809895.pdf)
 
-[Ejercicios Python Básico](https://github.com/Arturo1809895/Mineria_de_Datos/blob/master/PythonBasico_1809895.ipynb)
+[Ejercicios Python Básico]
