@@ -23,6 +23,8 @@
 
 [Primer Avance del PIA](https://github.com/valerianavarro99/Mineria_De_Datos/blob/master/Avance1-PIA_7_002.pdf)
 
+## Fase 3
+
 Ejercicios de programación herramientas de minería de datos:
   - [Ejercicio de Limpieza]
   - [Ejercicio de Visualización]
