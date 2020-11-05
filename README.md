@@ -22,3 +22,7 @@
 [Ejercicios Python Básico](https://github.com/Arturo1809895/Mineria_de_Datos/blob/master/PythonBasico_1809895.ipynb)
 
 [Primer Avance del PIA](https://github.com/valerianavarro99/Mineria_De_Datos/blob/master/Avance1-PIA_7_002.pdf)
+
+Ejercicios de programación herramientas de minería de datos:
+  - [Ejercicio de Limpieza]
+  - [Ejercicio de Visualización]
