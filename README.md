@@ -26,5 +26,5 @@
 ## Fase 3
 
 Ejercicios de programación herramientas de minería de datos:
-  - [Ejercicio de Limpieza de Datos](https://github.com/valerianavarro99/Mineria_De_Datos/blob/master/Limpieza_Equipo7.ipynb)
-  - [Ejercicio de Visualización de Datos](https://github.com/valerianavarro99/Mineria_De_Datos/blob/master/Visualizaci%C3%B3n_Equipo7.ipynb)
+  - [P1-Manipulación de datos](https://github.com/valerianavarro99/Mineria_De_Datos/blob/master/Limpieza_Equipo7.ipynb)
+  - [P2-Visualización de Datos](https://github.com/valerianavarro99/Mineria_De_Datos/blob/master/Visualizaci%C3%B3n_Equipo7.ipynb)
