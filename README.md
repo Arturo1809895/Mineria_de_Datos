@@ -30,3 +30,5 @@ Ejercicios de programación herramientas de minería de datos:
   - [P2-Visualización de Datos](https://github.com/valerianavarro99/Mineria_De_Datos/blob/master/Visualizaci%C3%B3n_Equipo7.ipynb)
   
 [Segundo Avance del PIA](https://github.com/valerianavarro99/Mineria_De_Datos/blob/master/AvancePIA_II_002_7.ipynb)
+
+[PIA](https://github.com/sofiarosalesg/MineriaDeDatos/blob/master/PIA_07_002.pdf)
